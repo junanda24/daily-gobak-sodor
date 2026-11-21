@@ -14,7 +14,7 @@
 - [x] 12. High score via `store` (localStorage berversi + try/catch, fallback default)
 - [x] 13. Layar CARA MAIN (aturan asli singkat + kontrol) + footer sumber aturan
 - [x] 14. Verify mandiri: SHALL-by-SHALL checklist, uji alur main lengkap (menu → main → tertangkap → game over → ulang), cek console error, cek 360px, cek tanpa suara
-- [ ] 15. Export artifact → `src/`; README lengkap; archive openspec; git init + commit
-- [ ] 16. Buat repo `junanda24/daily-gobak-sodor` + push + verifikasi via API
-- [ ] 17. Catat BUILT.md + update profile README `junanda24/junanda24`
-- [ ] 18. Log `~/memory/2026-11-22.md` + tracking entry goal
+- [x] 15. Export artifact → `src/`; README lengkap; archive openspec; git init + commit
+- [x] 16. Buat repo `junanda24/daily-gobak-sodor` + push + verifikasi via API
+- [x] 17. Catat BUILT.md + update profile README `junanda24/junanda24`
+- [x] 18. Log `~/memory/2026-11-22.md` + tracking entry goal
